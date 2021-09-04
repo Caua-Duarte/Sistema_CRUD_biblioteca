@@ -5,8 +5,6 @@
 
 # Sobre o projeto
 
-o Sistema CRUD de biblioteca é uma aplicação web desenvolvido como desafio do processo seletivo para estagio, da empresa [Inova Sorocaba](https://inovasorocaba.parquetecsorocaba.com.br/ "Site da Inova Sorocaba").
-
 A aplicação consiste em um CRUD (Create, Read, Update, Delete) de uma biblioteca online onde mostra todo o arcervo dela e a página para o cadastro dos livros.
 
 # Tecnologias utilizadas
