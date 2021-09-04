@@ -19,18 +19,6 @@ A aplicação consiste em um CRUD (Create, Read, Update, Delete) de uma bibliote
 
 - PHP
  
-# Como executar o projeto
-
-Pré-requisitos: Xampp, versão mais recente do PHP, GIT
-
-```bash
-# clonar repositório pelo git Bash
-git clone https://github.com/Caua-Duarte/Sistema_CRUD_biblioteca
-
-# executar o projeto pelo navegador
-localhost/ local onde está a pasta
-```
-
 # Autor
 
 Cauã Duarte Sampaio
