@@ -1,5 +1,5 @@
 # Sistema_CRUD_biblioteca
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Caua-Duarte/Sistema_CRUD_biblioteca/blob/main/LICENSE) 
+
 
 ## :warning: Em andamento
 
